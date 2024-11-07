@@ -53,3 +53,12 @@ Read data and make people understand the data
 
 first step in data engineering:
 data requirements gathering
+
+
+Key elements of requirements gathering
+1. Learn what existing data systems or solutions are in place
+2. Learn what pain problem with existing solutions
+
+
+insights:
+running complex query on database is high risk
