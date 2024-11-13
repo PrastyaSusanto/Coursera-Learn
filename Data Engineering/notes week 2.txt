@@ -1,8 +1,16 @@
 DATA ENGINEERING DEFINED
 
+
+
+Generate: create data from source
 Ingestion:
 stream: contiuously almost real time, available shortly after it is produced
 
 batch: ingest data in batch processes, once every day,etc
 based on predetermined time interval
 or preset size threshold
+
+transformation:
+Query etc
+Involve data modelling: choosing a coherent structure
+for your data to make it useful for business 
