@@ -14,3 +14,5 @@ transformation:
 Query etc
 Involve data modelling: choosing a coherent structure
 for your data to make it useful for business 
+
+Serving:

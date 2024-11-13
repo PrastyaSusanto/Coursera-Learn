@@ -59,12 +59,3 @@ Key elements of requirements gathering
 1. Learn what existing data systems or solutions are in place
 2. Learn what pain problem with existing solutions
 
-
-insights:
-running complex query on database is high risk
-advantage building on the cloud:
-scalable and elastic
-elastic: adjusted size
-
-Amazon Elastic Compute Cloud:
-Virtual Machine, remote server on AWS
