@@ -1,0 +1,8 @@
+DATA ENGINEERING DEFINED
+
+Ingestion:
+stream: contiuously almost real time, available shortly after it is produced
+
+batch: ingest data in batch processes, once every day,etc
+based on predetermined time interval
+or preset size threshold
