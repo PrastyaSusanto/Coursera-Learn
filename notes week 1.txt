@@ -62,3 +62,9 @@ Key elements of requirements gathering
 
 insights:
 running complex query on database is high risk
+advantage building on the cloud:
+scalable and elastic
+elastic: adjusted size
+
+Amazon Elastic Compute Cloud:
+Virtual Machine, remote server on AWS
