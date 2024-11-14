@@ -16,3 +16,12 @@ Involve data modelling: choosing a coherent structure
 for your data to make it useful for business 
 
 Serving:
+Serve data for dashboard, ML, etc
+
+
+
+
+DataOps:
+improves the development processes
+Pilar of DevOps:
+Automation, Observabily and monitoring, Incident Response
