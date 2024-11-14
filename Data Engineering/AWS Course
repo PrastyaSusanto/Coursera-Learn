@@ -9,3 +9,68 @@ elastic: adjusted size
 
 Amazon Elastic Compute Cloud:
 Virtual Machine, remote server on AWS
+
+
+AWS TOOLS:
+
+Traditional Data Warehouse:
+Amazon Redshift
+Amazon Simple Storage Service (S3)
+
+Transformation:
+AWS GLUE, Apache Spark, DBT
+
+Serving:
+
+BI or analytics:
+Amazon Athena/Redshift
+Amazon QuickSight
+
+AI/ML:
+
+
+
+Security in AWS:
+
+Identity and Access Management (IAM):
+IAM ROLES:
+Give users/applications access to temporary credential
+Provide appropriate AWS API permissions
+
+
+Dataops:
+collect metrics and provide monitoring 
+features
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
