@@ -25,3 +25,8 @@ DataOps:
 improves the development processes
 Pilar of DevOps:
 Automation, Observabily and monitoring, Incident Response
+
+
+Orchestration:
+System to make sure process is handled successfully through schedulling,
+automation, etc
