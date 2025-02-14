@@ -1,0 +1,12 @@
+Software Engineering (SE) vs Software Developer (SD):
+SE build system, SD specific function
+SE: Using programming languages and engineering principles
+to build products
+
+
+
+
+Software Development Life Cycle (SDLC):
+Cycle of planning, design, and implementation 
+of Software
+Intially used the waterfall method
