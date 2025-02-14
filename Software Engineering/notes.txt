@@ -10,3 +10,19 @@ Software Development Life Cycle (SDLC):
 Cycle of planning, design, and implementation 
 of Software
 Intially used the waterfall method
+
+
+Advantages of the SDLC
+a. Improves efficiency and reduce risks
+b. Team members know what they should be working on and when
+c. Respond to changing requirements
+d. Solve problems early in the process
+e. Reduces overlapping responsibilities
+
+
+SDLC
+1. Planning
+2. Design
+3. Development
+4. Testing
+5. Deployment 
